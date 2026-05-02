@@ -46,12 +46,8 @@ This playbook provides a **standardized DFIR acquisition workflow** to:
 
 ---
 
-## 🏁 Operational Summary
+## 🪟 Related Project
 
-This repository is designed as a **structured DFIR acquisition guide** to ensure consistent, repeatable, and forensically sound evidence collection on compromised Windows systems.
+🔗 https://github.com/ilyess-sellami/Linux-DFIR-Acquisition-Playbook
 
-It should be used as a reference during:
-- Incident response investigations
-- SOC escalation procedures
-- Digital forensic analysis
-- Threat hunting engagements
+Linux DFIR acquisition playbook for incident response and evidence collection.
