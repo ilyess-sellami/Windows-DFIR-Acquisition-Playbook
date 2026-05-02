@@ -48,6 +48,6 @@ This playbook provides a **standardized DFIR acquisition workflow** to:
 
 ## 🪟 Related Project
 
-🔗 https://github.com/ilyess-sellami/Linux-DFIR-Acquisition-Playbook
+Linux DFIR acquisition playbook for incident response and evidence collection:
 
-Linux DFIR acquisition playbook for incident response and evidence collection.
+🔗 https://github.com/ilyess-sellami/Linux-DFIR-Acquisition-Playbook
