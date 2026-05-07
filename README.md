@@ -1,4 +1,4 @@
-<h1 align="center">DFIR Windows Acquisition Playbook</h1>
+<h1 align="center">Windows DFIR Acquisition Playbook</h1>
 
 <p align="center">
   <b>Windows forensic acquisition workflow for incident response and evidence collection</b>
