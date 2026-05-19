@@ -44,6 +44,14 @@ DumpIt is a lightweight one-click tool used to capture full physical memory in D
 
 ---
 
+### [2. WinPmem](https://github.com/Velocidex/WinPmem/releases)
+
+<p align="center">
+  <img src="docs/winpmem.png" alt="WinPmem" />
+</p>
+
+WinPmem is a useful, small, and installation-free Memory Dump tool.
+
 ### [2. Magnet RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/)
 
 <p align="center">
