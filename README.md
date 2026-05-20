@@ -39,10 +39,11 @@ This playbook provides a **standardized DFIR acquisition workflow** to:
 2. [Disk Imaging (Full Forensic Image)](02-disk-imaging.md)
 3. [Windows Event Logs](03-windows-event-logs.md)
 4. [Registry Artifacts & Persistence](04-registry-artifacts.md)
-5. [User Artifacts (AppData / Temp / Downloads)](05-user-artifacts-appdata-temp.md)
-6. [Browser Artifacts](06-browser-artifacts.md)
-7. [Timeline Artifacts (MFT, Prefetch, Amcache)](07-timeline-artifacts.md)
-8. [Network Artifacts](08-network-artifacts.md)
+5. [CMD / PowerShell History Acquisition]()
+6. [User Artifacts (AppData / Temp / Downloads)](05-user-artifacts-appdata-temp.md)
+7. [Browser Artifacts](06-browser-artifacts.md)
+8. [Timeline Artifacts (MFT, Prefetch, Amcache)](07-timeline-artifacts.md)
+9. [Network Artifacts](08-network-artifacts.md)
 
 ---
 
